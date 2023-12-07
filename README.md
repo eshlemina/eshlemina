@@ -2,7 +2,7 @@
 ---
 ### Обо мне:
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ekaterina-s-b327b3276/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ekaterina-s-b327b3276/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
 ---
 ### 🤝 Социальные сети:
   <div id="badges">
