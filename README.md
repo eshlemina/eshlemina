@@ -1,4 +1,5 @@
-<h1 align="center">Привет! Меня зовут Екатерина и я тестировщик </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h2> Привет! Меня зовут Екатерина и я тестировщик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> </h2>
+
 
 
 <div style="display: flex;">
@@ -7,7 +8,7 @@
 
 <ul>
     <li>Я тестирую web, desktop и mobile</li>
-    <li>I am a very caring team worker and a quick learner 李</li>
+    <li>I am a very caring team worker and a quick learner </li>
     <li>I focus on learning both manual and automation testing</li>
     <li>Это часть инструментов, которые я использую в работе:
 
@@ -32,12 +33,6 @@
 
 </div>
 
----
-**Моё портфолио:**
-
-
-
----
 <br>
 
 
