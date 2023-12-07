@@ -2,7 +2,9 @@
 ---
 ### Обо мне:
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)] (https://t.me/eshlemina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/)
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
 ---
 ### 🤝 Социальные сети:
   <div id="badges">
