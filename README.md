@@ -1,32 +1,57 @@
-# Привет!
----
-### Обо мне:
-
- 📫 Как связаться со мной:
-- [![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/)
-- [![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
----
-### 🤝 Социальные сети:
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ekaterina-s-b327b3276/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/eshlemina" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
----
+<h1 align="center">Привет! Меня зовут Екатерина и я тестировщик </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div style="display: flex;">
+     <div style="flex: 1;">
+     <h3>Обо мне:</h3> <img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
+
+<ul>
+    <li>Я тестирую web, desktop и mobile</li>
+    <li>I am a very caring team worker and a quick learner 李</li>
+    <li>I focus on learning both manual and automation testing</li>
+    <li>Это часть инструментов, которые я использую в работе:
+
+</ul>
+</div>
+</div>
+
+ <div> 
+
+<img alt="DevTools" src="https://img.shields.io/badge/DevTools-dcdcdc?style=for-the-badge&logo=googlechrome"> 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-dcdcdc?style=for-the-badge&logo=postman"> 
+<img alt="Figma" src="https://img.shields.io/badge/Figma-dcdcdc?style=for-the-badge&logo=figma"> 
+<img alt="Youtrack" src="https://img.shields.io/badge/Youtrack-dcdcdc?style=for-the-badge&logo=youtrack"> 
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-dcdcdc?style=for-the-badge&logo=swagger"> 
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-dcdcdc?style=for-the-badge&logo=azure devops">
+<img alt="Charles Proxy" src="https://img.shields.io/badge/Charles Proxy-dcdcdc?style=for-the-badge&logo=charles proxy">
+<img alt="Trello" src="https://img.shields.io/badge/Trello-dcdcdc?style=for-the-badge&logo=trello">
+<img alt="jira" src="https://img.shields.io/badge/Jira-dcdcdc?style=for-the-badge&logo=jira">
+<img alt="GitHub" src="https://img.shields.io/badge/Github-dcdcdc?style=for-the-badge&logo=github">
+<img alt="Jmeter" src="https://img.shields.io/badge/Jmeter-dcdcdc?style=for-the-badge&logo=jmeter">
+<img alt="Fiddler" src="https://img.shields.io/badge/Fiddler-dcdcdc?style=for-the-badge&logo=fiddler">
+
+</div>
+
+---
+**Моё портфолио:**
+
+
+
+---
+<br>
+
+
+
+
+
+
+
+
+**Мои контакты:**
+
+[![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/)
+
+[![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
+ 
