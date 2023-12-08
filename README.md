@@ -1,17 +1,8 @@
 <h2> Привет! Меня зовут Екатерина и я тестировщик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> </h2>
 
+<img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
 
-
-<div style="display: flex;">
-     <div style="flex: 1;">
-     <h3>Обо мне:</h3> <img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
-
-<ul>
-    <li>Я тестирую web, desktop и mobile</li>
-    <li>I am a very caring team worker and a quick learner </li>
-    <li>I focus on learning both manual and automation testing</li>
-    <li>Это часть инструментов, которые я использую в работе:
-
+Я уже 1,5 года тестирую web, desktop и mobile. Продолжаю учиться и развиваться в этом направлении.
 </ul>
 </div>
 </div>
