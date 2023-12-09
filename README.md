@@ -3,9 +3,32 @@
 <img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
 
 Я уже 1,5 года тестирую web, desktop и mobile. Продолжаю учиться и развиваться в этом направлении.
-</ul>
-</div>
-</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## My CV 
+
+[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проектв](https://ссылочку_сюда)
+  
+
+## Инструменты и технологии
+Блок для инструментов.
+
 
  <div> 
 
@@ -35,9 +58,5 @@
 
 **Мои контакты:**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/)
-
-[![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/) [![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
  
