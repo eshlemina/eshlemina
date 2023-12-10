@@ -3,12 +3,13 @@
 <img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
 
 Я уже 1,5 года тестирую web, desktop и mobile. Продолжаю учиться и развиваться в этом направлении.
+Мне интересен не только поиск багов, но и участие в других процессах, направленных на улучшение качества продукта, уменьшение рисков и повышение эффективности процесса разработки.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+## Мои контакты
+
+[![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/) [![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
+ 
+
 
 ## Резюме
 
@@ -19,11 +20,8 @@
   -  [Чек-листы](https://drive.google.com/drive/folders/1-Bjkh0V8ndlIXZgcPPt3rcX4TUcOTLd4?usp=drive_link)
   -  [Тест-кейсы](https://drive.google.com/drive/folders/1LPinIRfzVKEm-DoQBEoa3TD1bNEX4KP7?usp=drive_link)
   -  [Mind maps](https://drive.google.com/drive/folders/1CH0RC7PiX1iY0rYDvYKHyu0lb8Y9lnd1?usp=drive_link)
-  -  [Баг-репорты](https://ссылочку_сюда)
 - Коллекции в Postman 
-  -  [TestRail](https://drive.google.com/drive/folders/1ElyMGOgrzNICtk0kXWAoc2Uaz0aR5p3P?usp=drive_link)
-- SQL запросы 
-  -  [Названия проектов](https://ссылочку_сюда)
+  -  [Testing of TestRail](https://drive.google.com/drive/folders/1ElyMGOgrzNICtk0kXWAoc2Uaz0aR5p3P?usp=drive_link)
   
 
 ## Инструменты и технологии
@@ -48,7 +46,4 @@
 
 
 
-**Мои контакты:**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/) [![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
- 
