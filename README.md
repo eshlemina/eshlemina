@@ -16,11 +16,12 @@
 [Вот](https://spb.hh.ru/applicant/resumes/view?resume=636fa72cff0c85f0910039ed1f416c7578586c)
 
 ## Портфолио 
-- Тестовая документация
+**Тестовая документация**
   -  [Чек-листы](https://drive.google.com/drive/folders/1-Bjkh0V8ndlIXZgcPPt3rcX4TUcOTLd4?usp=drive_link)
   -  [Тест-кейсы](https://drive.google.com/drive/folders/1LPinIRfzVKEm-DoQBEoa3TD1bNEX4KP7?usp=drive_link)
-  -  [Mind maps](https://drive.google.com/drive/folders/1CH0RC7PiX1iY0rYDvYKHyu0lb8Y9lnd1?usp=drive_link)
-- Коллекции в Postman 
+  -  [Майнд карты](https://drive.google.com/drive/folders/1CH0RC7PiX1iY0rYDvYKHyu0lb8Y9lnd1?usp=drive_link)
+    
+ **Postman** 
   -  [Testing of TestRail](https://drive.google.com/drive/folders/1ElyMGOgrzNICtk0kXWAoc2Uaz0aR5p3P?usp=drive_link)
   
 
