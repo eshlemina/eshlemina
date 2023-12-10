@@ -20,16 +20,13 @@
   -  [Тест-кейсы](https://drive.google.com/drive/folders/1LPinIRfzVKEm-DoQBEoa3TD1bNEX4KP7?usp=drive_link)
   -  [Mind maps](https://drive.google.com/drive/folders/1CH0RC7PiX1iY0rYDvYKHyu0lb8Y9lnd1?usp=drive_link)
   -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
+- Коллекции в Postman 
+  -  [TestRail](https://drive.google.com/drive/folders/1ElyMGOgrzNICtk0kXWAoc2Uaz0aR5p3P?usp=drive_link)
 - SQL запросы 
   -  [Названия проектов](https://ссылочку_сюда)
   
 
 ## Инструменты и технологии
-Блок для инструментов.
-
-
  <div> 
 
 <img alt="DevTools" src="https://img.shields.io/badge/DevTools-dcdcdc?style=for-the-badge&logo=googlechrome"> 
