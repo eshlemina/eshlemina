@@ -8,12 +8,7 @@
 ## Мои контакты
 
 [![LinkedIn Badge](https://img.shields.io/badge/-eshlemina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eshlemina/) [![Telegram Badge](https://img.shields.io/badge/-@eshlemina-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/eshlemina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:e.v.shlemina@gmail.com)
- 
 
-
-## Резюме
-
-[Вот](https://spb.hh.ru/applicant/resumes/view?resume=636fa72cff0c85f0910039ed1f416c7578586c)
 
 ## Портфолио 
 **Тестовая документация**
