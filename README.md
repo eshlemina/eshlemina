@@ -35,7 +35,8 @@
 <img alt="GitHub" src="https://img.shields.io/badge/Github-dcdcdc?style=for-the-badge&logo=github">
 <img alt="Jmeter" src="https://img.shields.io/badge/Jmeter-dcdcdc?style=for-the-badge&logo=jmeter">
 <img alt="Fiddler" src="https://img.shields.io/badge/Fiddler-dcdcdc?style=for-the-badge&logo=fiddler">
-
+<img alt="TestRail" src="https://img.shields.io/badge/TestRail-dcdcdc?style=for-the-badge&logo=testrail">
+<img alt="Redmine" src="https://img.shields.io/badge/Redmine-dcdcdc?style=for-the-badge&logo=redmine">
 </div>
 
 <br>
