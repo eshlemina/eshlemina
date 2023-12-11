@@ -37,6 +37,8 @@
 <img alt="Fiddler" src="https://img.shields.io/badge/Fiddler-dcdcdc?style=for-the-badge&logo=fiddler">
 <img alt="TestRail" src="https://img.shields.io/badge/TestRail-dcdcdc?style=for-the-badge&logo=testrail">
 <img alt="Redmine" src="https://img.shields.io/badge/Redmine-dcdcdc?style=for-the-badge&logo=redmine">
+<img alt="SOAP UI" src="https://img.shields.io/badge/SOAP UI-dcdcdc?style=for-the-badge&logo=SOAP UI">
+<img alt="Selenium IDE" src="https://img.shields.io/badge/Selenium IDE-dcdcdc?style=for-the-badge&logo=Selenium IDE">
 </div>
 
 <br>
