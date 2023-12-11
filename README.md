@@ -1,4 +1,4 @@
-<h2> Привет! Меня зовут Екатерина и я тестировщик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> </h2>
+<h2> Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> </h2>
 
 <img align="right" alt="GIF" height="215" width="215" src="JXA0.gif" />
 
